@@ -23,6 +23,7 @@ public class Assignment_1 {
 	{
 		int s3 = s1*s2;
 		System.out.println("multiplication result is "+s3);
+		System.out.println("i am done");
 		return s3;
 	}
 	public int div(int x, int y)
